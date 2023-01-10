@@ -1,0 +1,35 @@
+{{!-- <article>
+  <a href="/dashboard"> &larr; Back to dashboard</a>
+  <h2>
+    Edit Car
+  </h2>
+  <form class="edit-car-form">
+    <div>
+      <input name="car-title" type="text" value="{{car.title}}" />
+      <span>({{format_url car.car_url}})</span>
+    </div>
+    <div>
+      {{car.vote_count}} {{format_plural "point" car.vote_count}} by you on {{format_date car.created_at}}
+      |
+      <a href="/car/{{car.id}}">{{car.comments.length}} {{format_plural "comment" car.comments.length}}</a>
+    </div>
+    <button type="submit">Save Car</button>
+    <button type="button" class="delete-car-btn">Delete Car</button>
+  </form>
+</article>
+
+<form class="comment-form">
+  <div>
+    <textarea name="comment-body"></textarea>
+  </div>
+
+  <div>
+    <button type="submit">add comment</button>
+  </div>
+</form>
+
+{{> comments car.comments}}
+
+<script src="/javascript/edit-car.js"></script>
+<script src="/javascript/delete-car.js"></script>
+<script src="/javascript/comment.js"></script> --}}

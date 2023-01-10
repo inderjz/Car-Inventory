@@ -1,0 +1,38 @@
+header {
+    text-align: center;
+    font-style: italic;
+    font-family: 'Josefin Sans';
+    color: blueviolet;
+    padding-top: 1%;
+}
+
+main {
+    background-color: black;
+    padding: 0 0 15px 0;
+    font-family: 'Josefin Sans';
+    color: blueviolet;
+    background-color: black;
+}
+
+footer {
+    text-align: center; 
+    font-family: 'Josefin Sans';
+    font-style: italic;
+    color: blueviolet;
+    background-color: black;
+}
+
+.comment-body {
+    height: 120px;
+    width: 590px;
+}
+
+.inv-head {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: blueviolet;
+    font-family: 'Josefin Sans';
+}

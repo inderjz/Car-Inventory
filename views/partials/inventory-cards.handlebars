@@ -1,0 +1,26 @@
+                <li class="row justify-content-center m-3">
+                    <div class="col-md-9">
+                        <div class="card shadow bg-white rounded">
+                            <div class="card-header">
+                                <div class="row">
+                                <span class="col-4 font-weight-bold"><a href="/inventory/car/{{id}}"><i class="fa-solid fa-cars"></i>  {{name}}</a></span>
+                                <span class="col-4 font-italic"></span>
+                                <span class="col-4 text-right font-weight-bold">{{vote_count}} {{format_plural "vote" vote_count}}</span>
+                                </div>
+                            </div>
+                            <div class="card-body row">
+                                <img id="car-pic" class="rounded" src="/images/{{name}}.png" alt="{{name}}">
+                                <div class="col-7">
+                                    <p>Owner: {{user.username}}</p>
+                                    <p>Car Model: {{car_model}}</p>
+                                    <p>Price Paid: ${{price_paid}}</p>
+                                    <p>Resell Value: ${{resell_value}}</p>
+                                    <p>Notes: {{notes}}</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+
+
+<script src="/javascript/upvote.js"></script>
