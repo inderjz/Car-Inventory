@@ -1,12 +1,6 @@
 # Car-Inventory
 
  ![badge](https://img.shields.io/badge/license-mit-blue)
- 
-# Note Taker
-  
-  
-  ![badge](https://img.shields.io/badge/license-mit-blue)
-    
 
   ## Table-of-Contents
 
@@ -23,9 +17,7 @@
   
   ## [Description](#table-of-contents)
 
-  My product, called a Note taker, can assist people with taking notes at meetings, classes, and other significant events.
-
-  Anyone can use this to make fast notes just like they would on paper or in a notebook, but they run the risk of losing their paper and any essential notes they made. They can use my app instead and not have to worry about losing their notes since they would be saved on their mobile.
+Our project is a Car Inventory. This project will help car enthusiasts add their cars on the website for others to view. I created this project because I am a car lover by myself and I want others to share their cars with eachother and see how much people like their car. This application can be used by anyone who just want to keep a car inventory of rare cars for sale..
 
   ## [LandingPage](#table-of-contents)
 
