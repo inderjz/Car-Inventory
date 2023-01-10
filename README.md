@@ -61,7 +61,7 @@ Our project is a Car Inventory. This project will help car enthusiasts add their
   
   ## [DeployedLink](#table-of-contents)
 
-  https://note-taker-inderjz.herokuapp.com/
+  https://car-inventory.herokuapp.com/
 
   ## [Questions](#table-of-contents)
 
