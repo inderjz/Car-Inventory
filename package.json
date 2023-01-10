@@ -8,16 +8,7 @@
       "start": "node server.js",
       "watch": "nodemon server.js"
     },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com"
-    },
-    "homepage": "https://github.com",
+  
     "dependencies": {
       "bcrypt": "^5.0.0",
       "connect-session-sequelize": "^6.1.1",
