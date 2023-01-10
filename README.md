@@ -30,7 +30,7 @@
 
   ## [Usage](#table-of-contents)
 
-  After cloning the repo run the following command 'mysql -u root -p' at the root of your project and enter your password when promted, and then run the following commands 'source db/schema.sql' and then type quit. 
+  After cloning the repo run the following command 'mysql -u root -p' at the root of your project and enter your password when promted, and then run the following command 'source db/schema.sql' and then type quit. 
   
   For more information on how to add screenshots for examples, visit the following website:
   
