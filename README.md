@@ -28,13 +28,18 @@ Our project is a Car Inventory. This project will help car enthusiasts add their
 
   ## [Usage](#table-of-contents)
 
-  After you have pressed the Get started button you will enter the Note taker. On the left hand side you will have a column where it says No saved Notes on the top and once you have saved your notes that where all of your notes will be saved so whenever you come back at a later time your notes will still be there. On the right side you have place to write your Note title and your Note text and after you have completed writing press the save button on top right to save your notes. Next to the save button you have a pencil to delete everything you wrote on the current Notes. After you have saved a Note you will have a delete button on top right of the note to delete it.
+  If it is your first time using the website you will need to click on the Login button and then scroll down and click the Sign up button and then fill out the required information for you to create your account. If you already been to the website before and have an account just simply sign in. After, you have created your account successfully click on the Inventory tab and press the Add button to add your car and if you have alrady cars added you will be able to see them under it. 
   
-  <img width="1201" alt="Screenshot 2022-12-03 at 8 18 25 PM" src="https://user-images.githubusercontent.com/112728880/205474314-1b1719c0-52c8-44aa-8d57-bd7286f3a083.png">
+ 
+  <img width="510" alt="Screenshot 2023-01-09 at 5 31 17 PM" src="https://user-images.githubusercontent.com/112728880/211441848-6c82d47f-5b2a-4c12-84f0-b6b7d6683939.png">
 
-  <img width="385" alt="Screenshot 2022-12-03 at 8 21 03 PM" src="https://user-images.githubusercontent.com/112728880/205474328-bd92522a-87ee-41ab-bd7e-15d94b6597df.png">
-  
-  
+
+  <img width="756" alt="Screenshot 2023-01-09 at 5 32 36 PM" src="https://user-images.githubusercontent.com/112728880/211441872-969e4233-2aea-4e91-8349-3a3cf05f1515.png">
+
+
+<img width="754" alt="Screenshot 2023-01-09 at 5 34 34 PM" src="https://user-images.githubusercontent.com/112728880/211441887-552b602b-712b-4a23-b06f-152007f803f3.png">
+
+
   ## [License](#table-of-contents)
 
   The application is covered under the following license:
