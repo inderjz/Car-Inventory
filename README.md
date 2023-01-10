@@ -21,9 +21,9 @@ Our project is a Car Inventory. This project will help car enthusiasts add their
 
   ## [LandingPage](#table-of-contents)
 
-  When you deploy the application you will have title of the project with a little note under it. Under the title and the quick note there is a Get Started button to enter the note taker. 
+  When you deploy the application you will have title of the project on the top and two navigation links of Home or Login, and when you scroll under there will be list of featured cars under there.
   
-  <img width="1194" alt="Screenshot 2022-12-03 at 8 13 39 PM" src="https://user-images.githubusercontent.com/112728880/205474088-c3e79776-b331-42bc-a3d9-b67ee8f74cac.png">
+ <img width="1321" alt="Screenshot 2023-01-09 at 5 26 56 PM" src="https://user-images.githubusercontent.com/112728880/211441039-66eecc09-83ce-4414-9ab7-f49bf2344d90.png">
 
 
   ## [Usage](#table-of-contents)
